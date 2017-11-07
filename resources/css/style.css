@@ -2,17 +2,52 @@ html {
   font-family: Helvetica;
   text-align: center;
 }
+
 #home1 {
   background-image: url("../images/the-flatiron-building.png");
 }
+
 #title {
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
+
+#ownership {
+  font-size: 11px;
+  color: white;
+}
+
 .links {
   font-size: 18px;
 }
+
+.text1 {
+  font-size: 14px;
+}
+
 a {
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+  display: block;
 }
