@@ -13,11 +13,6 @@ html {
   color: white;
 }
 
-#ownership {
-  font-size: 11px;
-  color: white;
-}
-
 .links {
   font-size: 18px;
 }
@@ -49,5 +44,18 @@ h4 {
 
 footer {
   background-color: dimgray;
-  display: block;
+  text-align: left;
+}
+
+footer nav {
+  display: inline-block;
+
+}
+
+.ownership {
+    color: white;
+    font-size: 11px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
 }
